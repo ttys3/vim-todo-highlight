@@ -32,7 +32,7 @@ a vim plugin to highlight todos and fixmes
 This plugin helps you to remember the `TODO:` and `FIXME:` you have written in your code by highlighting them inside vim.
 
 ### Usage
-Just type `TODO:` or `FIXME:` inside a comment and this plugin will highlight it for you.
+Just type `TODO` or `FIXME` inside a comment and this plugin will highlight it for you.
 
 ## Configuration
 ### Default configuration
